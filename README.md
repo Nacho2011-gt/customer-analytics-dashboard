@@ -1,2 +1,10 @@
-# customer-analytics-dashboard
-These are my personal projects showing my learning path in Data Analytics.
+/customer-analytics-dashboard
+│
+├── Customer_Analytics_Dashboard.pbix
+├── Customer_Analytics_Dashboard.pdf
+├── screenshots
+│   ├── home.png
+│   ├── executive-overview.png
+│   ├── customer-segmentation.png
+│   └── insights.png
+└── README.md
