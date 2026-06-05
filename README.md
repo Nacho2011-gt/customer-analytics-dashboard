@@ -44,3 +44,17 @@ Data-driven findings and business recommendations.
 Author
 
 Ignacio Acuña
+
+## Dashboard Preview
+
+### Home
+![Home](screenshots/home.png)
+
+### Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/customer-segmentation.png)
+
+### Business Insights
+![Business Insights](screenshots/insights.png)
